@@ -21,27 +21,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="ui.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/ui.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3002">
-              <caret line="79" column="49" selection-start-line="79" selection-start-column="49" selection-end-line="79" selection-end-column="49" />
-              <folding>
-                <marker date="1477294857408" expanded="true" signature="10585:10591" ph="&amp;nbsp;" />
-                <marker date="1477294857408" expanded="true" signature="10599:10605" ph="&amp;nbsp;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="jquery.contextMenu.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/3rd/contextMenu/jquery.contextMenu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55290">
+            <state relative-caret-position="21825">
               <caret line="1470" column="39" selection-start-line="1470" selection-start-column="30" selection-end-line="1470" selection-end-column="39" />
-              <folding>
-                <marker date="1474264046066" expanded="true" signature="60655:60771" ph="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -49,7 +34,7 @@
       <file leaf-file-name="manager.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/chatroom/src/css/manager/manager.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="135">
               <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding />
             </state>
@@ -59,7 +44,7 @@
       <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2052">
+            <state relative-caret-position="810">
               <caret line="54" column="41" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="41" />
               <folding />
             </state>
@@ -69,7 +54,7 @@
       <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="135">
               <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding />
             </state>
@@ -79,18 +64,18 @@
       <file leaf-file-name="message.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/module/message.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
+            <state relative-caret-position="285">
               <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="session.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="session.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/module/session.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="65" selection-end-column="6" />
+            <state relative-caret-position="116">
+              <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -98,10 +83,40 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="web_config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web_config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webdemo/im/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="483" column="30" selection-start-line="483" selection-start-column="30" selection-end-line="483" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webdemo/im/js/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="sessions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NIM_Web_UI/src/js/list/sessions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
+            <state relative-caret-position="375">
               <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
               <folding />
             </state>
@@ -120,6 +135,8 @@
       <list>
         <option value="$PROJECT_DIR$/NIM_Web/webdemo/im/js/module/session.js" />
         <option value="$PROJECT_DIR$/NIM_Web/webdemo/im/js/login.js" />
+        <option value="$PROJECT_DIR$/bn_ini.js" />
+        <option value="$PROJECT_DIR$/webdemo/im/main.html" />
       </list>
     </option>
   </component>
@@ -130,9 +147,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="width" value="2894" />
-    <option name="height" value="1741" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -159,6 +176,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -187,24 +206,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="NIM_Web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NIM_Web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="webdemo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -216,10 +217,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NIM_Web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -238,10 +235,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NIM_Web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -254,43 +247,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NIM_Web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webdemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="im" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -740,14 +701,15 @@
       <workItem from="1478430176644" duration="3925000" />
       <workItem from="1478498998317" duration="2197000" />
       <workItem from="1481103109100" duration="10000" />
+      <workItem from="1481706620483" duration="182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6132000" />
+    <option name="totallyTimeSpent" value="6314000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="0" width="2894" height="1741" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -761,7 +723,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -829,12 +791,75 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/ui.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="49" selection-start-line="79" selection-start-column="49" selection-end-line="79" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/3rd/contextMenu/jquery.contextMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21825">
+          <caret line="1470" column="39" selection-start-line="1470" selection-start-column="30" selection-end-line="1470" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/chatroom/src/css/manager/manager.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="41" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/module/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/module/session.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIM_Web_UI/src/js/list/sessions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/ui.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3002">
           <caret line="79" column="49" selection-start-line="79" selection-start-column="49" selection-end-line="79" selection-end-column="49" />
-          <folding>
-            <marker date="1477294857408" expanded="true" signature="10585:10591" ph="&amp;nbsp;" />
-            <marker date="1477294857408" expanded="true" signature="10599:10605" ph="&amp;nbsp;" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -842,9 +867,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55290">
           <caret line="1470" column="39" selection-start-line="1470" selection-start-column="30" selection-end-line="1470" selection-end-column="39" />
-          <folding>
-            <marker date="1474264046066" expanded="true" signature="60655:60771" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -902,10 +925,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3239">
           <caret line="79" column="49" selection-start-line="79" selection-start-column="49" selection-end-line="79" selection-end-column="49" />
-          <folding>
-            <marker date="1477294857408" expanded="true" signature="10585:10591" ph="&amp;nbsp;" />
-            <marker date="1477294857408" expanded="true" signature="10599:10605" ph="&amp;nbsp;" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -913,9 +933,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="59655">
           <caret line="1470" column="39" selection-start-line="1470" selection-start-column="30" selection-end-line="1470" selection-end-column="39" />
-          <folding>
-            <marker date="1474264046066" expanded="true" signature="60655:60771" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -955,18 +973,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/ui.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3002">
+        <state relative-caret-position="1185">
           <caret line="79" column="49" selection-start-line="79" selection-start-column="49" selection-end-line="79" selection-end-column="49" />
-          <folding>
-            <marker date="1477294857408" expanded="true" signature="10585:10591" ph="&amp;nbsp;" />
-            <marker date="1477294857408" expanded="true" signature="10599:10605" ph="&amp;nbsp;" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/module/message.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
+        <state relative-caret-position="285">
           <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
           <folding />
         </state>
@@ -974,17 +989,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/3rd/contextMenu/jquery.contextMenu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55290">
+        <state relative-caret-position="21825">
           <caret line="1470" column="39" selection-start-line="1470" selection-start-column="30" selection-end-line="1470" selection-end-column="39" />
-          <folding>
-            <marker date="1474264046066" expanded="true" signature="60655:60771" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/chatroom/src/css/manager/manager.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="135">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding />
         </state>
@@ -992,7 +1005,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="135">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
@@ -1000,7 +1013,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2052">
+        <state relative-caret-position="810">
           <caret line="54" column="41" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="41" />
           <folding />
         </state>
@@ -1008,7 +1021,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NIM_Web_UI/src/js/list/sessions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
+        <state relative-caret-position="375">
           <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
           <folding />
         </state>
@@ -1016,11 +1029,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NIM_Web/webdemo/im/js/module/session.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="65" selection-end-column="6" />
+        <state relative-caret-position="116">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webdemo/im/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webdemo/im/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="483" column="30" selection-start-line="483" selection-start-column="30" selection-end-line="483" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
