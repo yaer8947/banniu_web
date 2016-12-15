@@ -45,7 +45,7 @@ var Cache = (function(){
 
 	Cache.prototype.initData= function(){
 		//this.loadXMLDoc('/work/mobileUserInfo.htm?m=findAllUserAndDept',function(xmlhttp)
-		this.loadXMLDoc('http://localhost:63342/webdemo/im/js/data.json',function(json)
+		this.loadXMLDoc('http://localhost:63342/web_app/webdemo/im/js/data.json',function(json)
 		{
             var dept= json.allDeptList;
             var allUser= json.allUserList;
